@@ -37,3 +37,29 @@ The goal is to demonstrate a complete ML workflow — from data preprocessing an
 
 ## 📁 Project Structure
 
+---
+
+## 📊 Dataset
+
+The dataset contains clinical and diagnostic features of patients relevant to heart disease, such as:
+
+- Age  
+- Sex  
+- Chest pain type  
+- Resting blood pressure  
+- Cholesterol  
+- Maximum heart rate  
+- And more…
+
+> ⚠️ Make sure you include your dataset file or download reference in your repo if not already present.
+
+---
+
+## 🛠️ Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/AGNELRENO/heart-disease-prediction.git
+
+
